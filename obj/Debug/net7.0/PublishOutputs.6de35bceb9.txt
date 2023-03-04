@@ -1,0 +1,7 @@
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\MvcMovie.exe
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\MvcMovie.dll
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\MvcMovie.deps.json
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\MvcMovie.runtimeconfig.json
+C:\Users\maurisq\Desktop\prueba\MvcMovie\bin\Debug\net7.0\publish\MvcMovie.pdb
