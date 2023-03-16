@@ -1,7 +1,7 @@
 using QRCoder;
 using System.Drawing;
 
-namespace MvcMovie.Models;
+namespace CubiculosTEC.Models;
 
 public class CodigosQR{
     public  string crearCodigo(){

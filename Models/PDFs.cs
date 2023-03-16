@@ -2,7 +2,7 @@
 
 
 
-namespace MvcMovie.Models;
+namespace CubiculosTEC.Models;
 
 
 public class Pdfs{

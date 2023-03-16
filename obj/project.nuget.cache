@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lBXdxfO4kbOvd1Hhee0vU0zir70USRpCXCBz6yFM5eZMxMHMPl5MJ9PNifphsn/z5oTkl9A1BuT6J0I6MapBg==",
+  "dgSpecHash": "uoO3v3JzTYPaYDTMsJ8tFxUAFtfMiks6sk4dRNa+gNBmYzyCUWydAmTUtMkrqp69xjo/KXgQSHQFrpWUTmGoSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maurisq\\Desktop\\prueba\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maurisq\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\maurisq\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

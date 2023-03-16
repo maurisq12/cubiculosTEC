@@ -506,11 +506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maurisq\\Desktop\\prueba\\MvcMovie\\MvcMovie.csproj",
-      "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\maurisq\\Desktop\\prueba\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj",
+      "projectName": "CubiculosTEC",
+      "projectPath": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj",
       "packagesPath": "C:\\Users\\maurisq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maurisq\\Desktop\\prueba\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maurisq\\AppData\\Roaming\\NuGet\\NuGet.Config"

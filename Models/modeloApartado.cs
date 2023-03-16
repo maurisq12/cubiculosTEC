@@ -1,4 +1,4 @@
-namespace MvcMovie.Models;
+namespace CubiculosTEC.Models;
 
 public class Apartado{
     private int IDApartado;

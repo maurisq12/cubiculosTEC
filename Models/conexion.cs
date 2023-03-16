@@ -1,7 +1,7 @@
 using System;
 using System.Data.SqlClient;
 
-namespace MvcMovie.Models;
+namespace CubiculosTEC.Models;
 
 public class SQLConexion{
 

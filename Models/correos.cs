@@ -2,7 +2,7 @@ using System.Net;
 using System.Net.Mail;
 
 
-namespace MvcMovie.Models;
+namespace CubiculosTEC.Models;
 
 public class Correos{
 

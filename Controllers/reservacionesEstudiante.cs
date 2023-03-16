@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
+using CubiculosTEC.Models;
 
-namespace MvcMovie.Controllers;
+namespace CubiculosTEC.Controllers;
 
 public class Reservas : Controller
 {
