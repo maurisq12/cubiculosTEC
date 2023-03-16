@@ -18655,11 +18655,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Shared\\Login.cshtml",
-      "TargetPath": "Views\\Shared\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Reservas\\misReservaciones.cshtml",
       "TargetPath": "Views\\Reservas\\misReservaciones.cshtml",
       "FileKind": "mvc"
@@ -18680,6 +18675,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Registro\\Index.cshtml",
+      "TargetPath": "Views\\Registro\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -18695,8 +18695,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Shared\\Registro.cshtml",
-      "TargetPath": "Views\\Shared\\Registro.cshtml",
+      "FilePath": "c:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
