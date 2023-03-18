@@ -36,6 +36,8 @@ public class LO_Usuario{
         }
         Console.WriteLine(objeto.rol);
         return objeto;  
+
+        
     }
 }
 
