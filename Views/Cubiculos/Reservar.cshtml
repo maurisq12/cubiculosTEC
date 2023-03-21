@@ -4,44 +4,78 @@
         ViewData["Title"] = "Reservar cubículo";
     }
     <h1>@ViewData["Title"]</h1>
+    <link rel="stylesheet" href="./src/tablesort.css">
     <p>
+    <style>
+    th, td {
+      border-bottom: 1px solid;
+    }
+    table, th, td {
+      border-collapse: collapse;
+    }
+  </style>
 </head>
 <body>
-    <table  width="700" height="700" cellspacing="20" style="border: 2px solid #0087AE;">
-        <thead>
-            <tr height="50" style="background-color: #37D2FF ;">
-                <td align="center">Filtrado</td>
-                <td align="center"> </td>
-                <td align="center">Capacidad</td>
-                <td align="center">Servicios especiales</td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">1</td>
-                <td colspan="2" align="center">1</td>
-            </tr>
-        </tbody>
-    </table>
+    <div style="height: 700px; width: 700px; overflow: auto">
+        <table class="table-sortable" style="border: 2px solid #006194;">
+            <thead>
+                <tr height="50" style="background-color: #00ABE4; position: sticky; top: 0;">
+                    <td width="175" style="color:white; font-size:150%" align="center">Filtrado</td>
+                    <td width="175" style="color:white" align="center">Fecha
+                        <select class="table-filter">
+                            <option value="all"></option>
+                        </select>
+                    </td>
+                    <td width="175" style="color:white" align="center">Capacidad
+                        <select class="table-filter">
+                            <option value="all"></option>
+                        </select>
+                    </td>
+                    <td width="175" style="color:white" align="center">Servicios Especiales
+                        <select class="table-filter">
+                            <option value="all"></option>
+                        </select>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 1</td>
+                    <td align="center">Capacidad: 3</td>
+                    <td align="center">JAWS</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 5</td>
+                    <td align="center">Capacidad: 6</td>
+                    <td align="center">NVDA</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 8</td>
+                    <td align="center">Capacidad: 4</td>
+                    <td align="center">Ninguno</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 12</td>
+                    <td align="center">Capacidad: 5</td>
+                    <td align="center">JAWS</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 17</td>
+                    <td align="center">Capacidad: 5</td>
+                    <td align="center">Lanbda 1.4</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 20</td>
+                    <td align="center">Capacidad: 5</td>
+                    <td align="center">Ninguno</td>
+                </tr>
+                <tr height="100">
+                    <td align="center" colspan="2">Cubiculo 21</td>
+                    <td align="center">Capacidad: 6</td>
+                    <td align="center">JAWS</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>
