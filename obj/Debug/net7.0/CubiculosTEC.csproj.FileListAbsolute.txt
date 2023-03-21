@@ -1,0 +1,78 @@
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\appsettings.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.staticwebassets.runtime.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.exe
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.deps.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.runtimeconfig.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\CubiculosTEC.pdb
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\QRCoder.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.AssemblyReference.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.AssemblyInfoInputs.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.AssemblyInfo.cs
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.CoreCompileInputs.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.RazorAssemblyInfo.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.RazorAssemblyInfo.cs
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.CubiculosTEC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.build.CubiculosTEC.props
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CubiculosTEC.props
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CubiculosTEC.props
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\scopedcss\bundle\CubiculosTEC.styles.css
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\scopedcss\projectbundle\CubiculosTEC.bundle.scp.css
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.CopyComplete
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\refint\CubiculosTEC.dll
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.pdb
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\CubiculosTEC.genruntimeconfig.cache
+C:\Users\maurisq\Desktop\prueba\CubiculosTEC\obj\Debug\net7.0\ref\CubiculosTEC.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\appsettings.Development.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\appsettings.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.staticwebassets.runtime.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.exe
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.deps.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.runtimeconfig.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\CubiculosTEC.pdb
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\QRCoder.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.AssemblyReference.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.AssemblyInfoInputs.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.AssemblyInfo.cs
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.CoreCompileInputs.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.MvcApplicationPartsAssemblyInfo.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.RazorAssemblyInfo.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.RazorAssemblyInfo.cs
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.CubiculosTEC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.build.CubiculosTEC.props
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CubiculosTEC.props
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CubiculosTEC.props
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets.build.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\staticwebassets.development.json
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\scopedcss\bundle\CubiculosTEC.styles.css
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\scopedcss\projectbundle\CubiculosTEC.bundle.scp.css
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.csproj.CopyComplete
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\refint\CubiculosTEC.dll
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.pdb
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\CubiculosTEC.genruntimeconfig.cache
+D:\Tareas David\TEC\Semestre 7\Administracion de Proyectos\Proyecto\cubiculosTEC\obj\Debug\net7.0\ref\CubiculosTEC.dll

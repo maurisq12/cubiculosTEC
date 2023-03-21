@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj": {}
+    "D:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\CubiculosTEC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj": {
+    "D:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\CubiculosTEC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj",
+        "projectUniqueName": "D:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\CubiculosTEC.csproj",
         "projectName": "CubiculosTEC",
-        "projectPath": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\CubiculosTEC.csproj",
-        "packagesPath": "C:\\Users\\maurisq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurisq\\Desktop\\prueba\\CubiculosTEC\\obj\\",
+        "projectPath": "D:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\CubiculosTEC.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maurisq\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
