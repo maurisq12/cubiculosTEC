@@ -18675,11 +18675,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\Views\\Registro\\Index2.cshtml",
-      "TargetPath": "Views\\Registro\\Index2.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Tareas David\\TEC\\Semestre 7\\Administracion de Proyectos\\Proyecto\\cubiculosTEC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

@@ -2,16 +2,11 @@ namespace CubiculosTEC.Models;
 
 
 public class Usuario{
-    public int cedula;
-
-    public int carne;
-
     public string nombre;
 
-    public string apellido1;
+    public string correo;
+    public string contrasena;
+    public string rol;
 
-    public string apellido2;
-
-    public int edad;
 
 }

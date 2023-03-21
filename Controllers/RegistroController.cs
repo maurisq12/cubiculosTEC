@@ -1,7 +1,6 @@
     
-using Microsoft.AspNetCore.Mvc;
+    using Microsoft.AspNetCore.Mvc;
 using CubiculosTEC.Models;
-using CubiculosTEC.Logica;
 
 namespace CubiculosTEC.Controllers;
 
@@ -12,25 +11,19 @@ public class Registro : Controller{
     }
 
     [HttpPost]
-    public IActionResult Index(CubiculosTEC.Models.Registro objeto)
+    public string completarRegistro()
     {
-        if(ModelState.IsValid){
-            Console.WriteLine("oeoeoeoe");
-
-
-            /*
-            if(new LO_Usuario().verificarCorreo(objeto.correo)){
-                new LO_Usuario().nuevoUsuario(objeto);
-                //falta el if de estudiante o administrador
-                return RedirectToAction("Index","Home");
-            }
+        string cedula = Request.Form["cedula"].ToString();
+        string carne = Request.Form["carne"].ToString();
+        string nombre = Request.Form["nombre"].ToString();
+        string primerApellido = Request.Form["cedula"].ToString();
+        string segundoApellido = Request.Form["segundoApellido"].ToString();
+        string edad = Request.Form["edad"].ToString();
+        string fechaNacimiento = Request.Form["fechaNacimiento"].ToString();
+        string correo = Request.Form["correo"].ToString();
+        string pass = Request.Form["pass"].ToString();
+        Console.WriteLine(primerApellido);
+        return "El número de cédula es"+primerApellido;
         
-            else{
-                ModelState.AddModelError("Custom Error","Ya existe un usuario registrado con este correo");
-                return View();
-            } */
-        }
-
-        return View();
     }
 }
