@@ -3,27 +3,29 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 	<style>
-		input::-webkit-outer-spin-button,
-		input::-webkit-inner-spin-button {
-			-webkit-appearance: none;
-			margin: 0;
-		}
-
-		input[type=number] {
-			-moz-appearance: textfield;
-		}
-	</style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+  
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+    </style>
 
 	<title>Login V3</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-
 <body>
+<<<<<<< HEAD
 	@using (Html.BeginForm("Index","Registro", FormMethod.Post)){
+=======
+	
+>>>>>>> 6941bb7c9b3a7e5cab796f9d17b0909d18c5b946
 	<div class="limiter">
 		<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
 			<div class="wrap-login100">
@@ -32,8 +34,8 @@
 						<i class="zmdi zmdi-landscape"></i>
 					</span>
 					<title>Registro</title>
-					<h1 style="color:#004879">Registro de usuario </h1>
 
+<<<<<<< HEAD
 					<h2>
 						Por favor proporciona los siguientes datos para poder realizar el registro.
 					</h2>
@@ -91,8 +93,55 @@
 								<h3>@Html.ValidationMessageFor(m => m.fechaNacimiento,null, new {@class="error"})</h3>
 								<span class="focus-input100" data-placeholder="&#xf191;"></span>
 							</div><br>
+=======
+					<span class="login100-form-title p-b-34 p-t-27">
+						Registro en CubiculosTEC, por favor proporciona los siguientes datos para poder realizar el registro.
+					</span>
 
+					<div class="wrap-input100 validate-input" data-validate="Numero de cédula">
+						<label>Número de cédula</label><br>
+						<input class="input100" type="number" maxlength="9" size="12" pattern="/\d{9}/" name="cedula">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
 
+					<div class="wrap-input100 validate-input" data-validate="Numero de carne">
+						<label>Número de carné</label><br>
+						<input class="input100" type="number" size="12" maxlength="10" pattern="/\d{9}/" name="carne">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
+
+					<div class="wrap-input100 validate-input" data-validate = "Nombre">
+						<label>Nombre</label><br>
+						<input class="input100" type="text" size="40" name="nombre">
+						<span class="focus-input100" data-placeholder="&#xf207;"></span>
+					</div><br>
+
+					<div class="wrap-input100 validate-input">
+						<label>Primer apellido </label><br>
+						<input class="input100" type="text" size="40" name="primerApellido">
+						<span class="focus-input100" data-placeholder="&#xf207;"></span>
+					</div><br>
+
+					<div class="wrap-input100 validate-input"">
+						<label>Segundo apellido </label><br>
+						<input class="input100" type="text" size="40" name="segundoApellido">
+						<span class="focus-input100" data-placeholder="&#xf207;"></span>
+					</div><br>
+
+					<div class="wrap-input100 validate-input" data-validate="edad">
+						<label>Edad</label><br>
+						<input class="input100" type="number" size="5" min="17" max="99" pattern="/\d{9}/" name="edad">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
+>>>>>>> 6941bb7c9b3a7e5cab796f9d17b0909d18c5b946
+
+					<div class="wrap-input100 validate-input" data-validate="Fecha de nacimiento">
+						<label>Fecha de nacimiento</label><br>
+						<input class="input100" type="date" name="fechaNacimiento" placeholder="Fecha nacimiento">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
+
+<<<<<<< HEAD
 							<div class="wrap-input100 validate-input" data-validate="Enter email">
 								<h3 style="font-size: 20px;">Correo electrónico</h3><br>
 								<h3>@Html.TextBoxFor(m => m.correo, new {@class="login-entry"})</h3>
@@ -121,6 +170,41 @@
 		</div>
 	}
 	
-</body>
+=======
+					<div class="wrap-input100 validate-input" data-validate="Enter email">
+						<label>Correo electrónico</label><br>
+						<input class="input100" type="email" name="correo" size="40" placeholder="&#64;estudiantec.cr / &#64;itcr.ac.cr">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
 
+					<div class="wrap-input100 validate-input" data-validate="Enter password">
+						<label>Contraseña</label><br>
+						<input class="input100" type="password" size="40" name="pass">
+						<label></label><br>Debe contener: 
+						<br>-Mínimo 8 caracteres.
+						<br>-Al menos una letra mayúscula./n
+						<br>-Al menos una letra minúscula.
+						-<br>-Al menos un símbolo especial.</label><br><br>
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div><br>
+
+					<INPUT type = SUBMIT value="Registrarme"> 
+
+					<!--
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn">
+							Registrarme
+						</button> 
+					</div>-->
+
+				</form>
+			</div>
+		</div>
+	</div>
+	
+
+	<div id="dropDownSelect1"></div>
+
+>>>>>>> 6941bb7c9b3a7e5cab796f9d17b0909d18c5b946
+</body>
 </html>
