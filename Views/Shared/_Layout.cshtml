@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -10,36 +10,57 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-#00abe4 border-bottom box-shadow mb-3" style="background-color: #00abe4;">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CubículosTEC</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <img src= "https://i.imgur.com/X430Cqx.png" width="40" height="40"/>
                 
+                <img src= "https://i.imgur.com/X430Cqx.png" width="40" height="40" />
+                <a class="navbar-brand text-light " asp-area="" asp-controller="Home" asp-action="Index">CubículosTEC</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation" >
+                    <span class="navbar-toggler-icon" ></span>
+                </button>
+
+        
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Menú principal</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Menú principal</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Cubiculos" asp-action="reservar">Reservar cubículos</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Cubiculos" asp-action="reservar">Reservar cubículos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="reservas" asp-action="misReservaciones">Mis reservaciones</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="reservas" asp-action="misReservaciones">Mis reservaciones</a>
                         </li>
                         
                     </ul>
                     <ul class="navbar-nav ml-auto"></ul>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Acceso" asp-action="Salir">Cerrar sesión</a>
+                            <a class="nav-link text-light" asp-controller="Acceso" asp-action="Salir">Cerrar sesión</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
+        <style>
+        .nav-link { 
+             margin-left: 20px;
+             font-weight: bold;
+         } 
+         .navbar-brand {
+        font-family: Helvetica;
+        margin-left: 5px;
+        font-weight: bold;
+        }
+        nav-link.active,
+        .nav-link:focus {
+            color: #084e7d !important;
+        }
+        .navbar-brand.active,
+        .navbar-brand:focus {
+            color: #084e7d !important;
+        }         
+    </style>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
